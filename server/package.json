@@ -1,0 +1,26 @@
+{
+  "name": "fly-game",
+  "version": "0.0.1",
+  "description": "Fly game",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dimka3210/fly-game.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backbone",
+    "bootstrap",
+    "game",
+    "demo"
+  ],
+  "dependencies": {
+    "socket.io": "*"
+  },
+  "author": "dimka3210",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimka3210/fly-game/issues"
+  },
+  "homepage": "https://github.com/dimka3210/fly-game#readme"
+}

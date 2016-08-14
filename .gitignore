@@ -1,0 +1,4 @@
+/.vagrant/*
+Vagrantfile
+/.idea/*
+/server/node_modules/*
